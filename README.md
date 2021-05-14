@@ -1,10 +1,10 @@
 # CSS385: Intro to Game Development
 Class projects:
 
-Space shooter: http://students.washington.edu/ytc8717/MP4/
+## Space shooter: http://students.washington.edu/ytc8717/MP4/
 
 
-Stranded - a Sokoban adventure game: 
+## Stranded - a Sokoban adventure game: 
 
 Alpha test: https://mxng113.github.io/CSS385/Stranded-alpha-test/
 
