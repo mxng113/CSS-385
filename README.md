@@ -1,5 +1,4 @@
 # CSS385: Intro to Game Development
-Class projects:
 
 ## Space shooter: 
 http://students.washington.edu/ytc8717/MP4/
